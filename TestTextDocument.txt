@@ -1,1 +1,3 @@
-This is a text document for testing my gitHub
+This is a text document for testing my gitHub.
+
+Now it has two lines.
